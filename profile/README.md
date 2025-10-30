@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://software-osx.github.io/.github/altabmac">  
+<a href="https://get-software-osx.github.io/.github/alttabmac">  
 <img src="https://img.shields.io/badge/Get_AltTab_for_macOS-darkblue?style=for-the-badge&logo=apple" alt="Get AltTab for macOS">  
 </a>  
 </div>  
